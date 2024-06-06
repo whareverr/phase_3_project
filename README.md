@@ -132,8 +132,14 @@ Given the positive coefficient for having a parent as the primary driver, Safiri
 4. Customized Plans for High Claim Frequency Individuals:
 Since claim frequency has a positive coefficient, Safiri can develop customized insurance plans for individuals with a history of frequent claims. These plans could incorporate personalized risk management strategies, proactive claims support, and incentives for safe driving behavior to reduce claim frequency over time.
 
-6. Tailor Policies for Families with Multiple Children Driving:
+5. Tailor Policies for Families with Multiple Children Driving:
 Safiri should offer tailored insurance policies for families with multiple children driving to address the unique risk profile associated with this demographic. Family-friendly discounts, flexible coverage options, and safety-focused initiatives can appeal to this customer segment.
 
-8. Consider Home Environment in Risk Assessment:
+6. Consider Home Environment in Risk Assessment:
 Safiri should consider the home environment when assessing insurance risks. Factors such as household safety measures, parental supervision, and neighborhood characteristics can influence risk levels and premium calculations.
+
+7. Promote Safe Driving Behavior Through Premium Incentives:
+Safiri can incentivize safe driving behavior by offering premium discounts or rewards based on driving-related factors such as motor vehicle record points, claim amounts, and accident-free years. This encourages policyholders to adopt safer driving habits and reduce insurance risks.
+
+8. Provide Discounts for Low Annual Mileage:
+Since travel time has a positive coefficient, Safiri can offer discounts or rewards for policyholders with low annual mileage. By encouraging less frequent driving, Safiri can reduce the likelihood of accidents and claims, ultimately leading to lower insurance premiums for eligible customers.
