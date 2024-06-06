@@ -110,7 +110,14 @@ This demonstrates the importance of optimizing model parameters to maximize perf
    - Similar to standard logistic regression, tuned logistic regression provided interpretable coefficients, facilitating understanding of feature contributions.
    - Depending on the complexity of the tuning process, the computational cost of tuned logistic regression could vary. However, it was generally less computationally expensive than random forests, especially for large datasets.
    - Tuned logistic regression might not have performed as well as random forests when the relationships between features and the target variable were highly non-linear or when there were complex interactions between features.
-   - 
+
+
+    ![image](https://github.com/whareverr/phase_3_project/blob/main/image.png)
+
+   
+    ![image](https://github.com/whareverr/phase_3_project/blob/main/roc.png)
+
+   
 #### Recommendations to the Stakeholder
 
 1. Offer Tailored Coverage for Sports Car Owners:
