@@ -43,6 +43,7 @@ This involves accurately predicting which customers are likely to file a claim. 
 ### DATASET
 
 The dataset used in this analysis comprises 10,302 records and 27 columns, which include customer demographics, car details, claim history, and other relevant information.
+Link to dataset : https://www.kaggle.com/datasets/xiaomengsun/car-insurance-claim-data/data
 
 ### DATA ANALYSIS
 
@@ -75,7 +76,7 @@ By experimenting with different parameters we were able to fine-tune the model a
 
 ### EVALUATION
 
-####Logistic Regression Model
+#### Logistic Regression Model
 
 Our Logistic Regression model achieved a decent accuracy of 0.80, indicating that it can correctly predict a significant portion of instances.
 The model showed a good balance between precision and recall, which is crucial for identifying true positives and minimizing false positives.
